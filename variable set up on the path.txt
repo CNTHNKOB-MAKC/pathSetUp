@@ -1,0 +1,21 @@
+
+USER VARIABLES
+
+M2_HOME
+
+
+C:\Maven\apache-maven-3.2.5-bin\apache-maven-3.2.5
+
+
+PATH
+
+C:\Program Files\Java\jdk1.8.0_25\bin;C:\Maven\apache-maven-3.2.5-bin\apache-maven-3.2.5\bin;%PATH%
+
+
+
+SYSTEM VARIABLES 
+
+
+Path
+
+C:\ProgramData\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;%M2%;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Git\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Skype\Phone\
